@@ -10,14 +10,17 @@ While you work on this assessment, take into consideration the specific delivery
 
 The intent is to use this solution (program) for this specific location and to use the same program in many cities in each state where WGU has a presence. As such, you will need to include detailed comments, following the industry-standard Python style guide, to make your code easy to read and to justify the decisions you made while writing your program.
 
-Assumptions:
+The following are the assumptions made about the logistics of the system:
 
-Each truck can carry a maximum of 16 packages.
-Trucks travel at an average speed of 18 miles per hour.
-Trucks have a “infinite amount of gas” with no need to stop.
-Each driver stays with the same truck as long as that truck is in service.
-Drivers leave the hub at 8:00 a.m., with the truck loaded, and can return to the hub for packages if needed. The day ends when all 40 packages have been delivered.
-Delivery time is instantaneous, i.e., no time passes while at a delivery (that time is factored into the average speed of the trucks).
-There is up to one special note for each package.
-The wrong delivery address for package #9, Third District Juvenile Court, will be corrected at 10:20 a.m. The correct address is 410 S State St., Salt Lake City, UT 84111.
-The package ID is unique; there are no collisions.
+1. Each truck can carry a maximum of 16 packages.
+2. Trucks travel at an average speed of 18 miles per hour.
+3. Trucks have a “infinite amount of gas” with no need to stop.
+4. Each driver stays with the same truck as long as that truck is in service.
+5. Drivers leave the hub at 8:00 a.m., with the truck loaded, and can return to the hub for packages if needed. The day ends when all 40 packages have been delivered.
+6. Delivery time is instantaneous, i.e., no time passes while at a delivery (that time is factored into the average speed of the trucks).
+7. There is up to one special note for each package.
+8. The wrong delivery address for package #9, Third District Juvenile Court, will be corrected at 10:20 a.m. The correct address is 410 S State St., Salt Lake City, UT 84111.
+9. The package ID is unique; there are no collisions.
+
+My solution utilizes a greedy a algorithm and heuristics such as priority packages in order to meet and exceed package deadline requirements and minimize distance traveled by trucks. The package objects are stored in a chaining hash table data structure to allow for a larger number of packages without hampering efficiency. 
+
