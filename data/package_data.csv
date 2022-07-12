@@ -1,0 +1,41 @@
+Package ID,Address,City ,State,Zip,"MassKILO",Group,Required Truck,Status,Time Available,Pickup Time,Time Delivered,"DeliveryDeadline"
+14,4300 S 1300 E,Millcreek,UT,84117,88,1,0,In Depot,8:00,0:00,0:00,10:30:00
+15,4580 S 2300 E,Holladay,UT,84117,4,1,0,In Depot,8:00,0:00,0:00,9:00:00
+16,4580 S 2300 E,Holladay,UT,84117,88,1,0,In Depot,8:00,0:00,0:00,10:30:00
+20,3595 Main St,Salt Lake City,UT,84115,37,1,0,In Depot,8:00,0:00,0:00,10:30:00
+19,177 W Price Ave,Salt Lake City,UT,84115,37,1,0,In Depot,8:00,0:00,0:00,23:59:59
+13,2010 W 500 S,Salt Lake City,UT,84104,2,1,0,In Depot,8:00,0:00,0:00,10:30:00
+34,4580 S 2300 E,Holladay,UT,84117,2,0,0,In Depot,8:00,0:00,0:00,10:30:00
+21,3595 Main St,Salt Lake City,UT,84115,3,0,0,In Depot,8:00,0:00,0:00,23:59:59
+1,195 W Oakland Ave,Salt Lake City,UT,84115,21,0,0,In Depot,8:00,0:00,0:00,10:30:00
+7,1330 2100 S,Salt Lake City,UT,84106,8,0,0,In Depot,8:00,0:00,0:00,23:59:59
+29,1330 2100 S,Salt Lake City,UT,84106,2,0,0,In Depot,8:00,0:00,0:00,10:30:00
+37,410 S State St,Salt Lake City,UT,84111,2,0,0,In Depot,8:00,0:00,0:00,10:30:00
+30,300 State St,Salt Lake City,UT,84103,1,0,0,In Depot,8:00,0:00,0:00,10:30:00
+39,2010 W 500 S,Salt Lake City,UT,84104,9,0,0,In Depot,8:00,0:00,0:00,23:59:59
+27,1060 Dalton Ave S,Salt Lake City,UT,84104,5,0,0,In Depot,8:00,0:00,0:00,23:59:59
+35,1060 Dalton Ave S,Salt Lake City,UT,84104,88,0,0,In Depot,8:00,0:00,0:00,23:59:59
+25,5383 South 900 East #104,Salt Lake City,UT,84117,7,0,2,Package Unavilable,9:05,0:00,0:00,10:30:00
+26,5383 South 900 East #104,Salt Lake City,UT,84117,25,0,0,In Depot,8:00,0:00,0:00,23:59:59
+22,6351 South 900 East,Murray,UT,84121,2,0,0,In Depot,8:00,0:00,0:00,23:59:59
+24,5025 State St,Murray,UT,84107,7,0,0,In Depot,8:00,0:00,0:00,23:59:59
+28,2835 Main St,Salt Lake City,UT,84115,7,0,0,Package Unavilable,9:05,0:00,0:00,23:59:59
+4,380 W 2880 S,Salt Lake City,UT,84115,4,0,0,In Depot,8:00,0:00,0:00,23:59:59
+40,380 W 2880 S,Salt Lake City,UT,84115,45,0,0,In Depot,8:00,0:00,0:00,10:30:00
+31,3365 S 900 W,Salt Lake City,UT,84119,1,0,0,In Depot,8:00,0:00,0:00,10:30:00
+32,3365 S 900 W,Salt Lake City,UT,84119,1,0,0,Package Unavilable,9:05,0:00,0:00,23:59:59
+17,3148 S 1100 W,Salt Lake City,UT,84119,2,0,0,In Depot,8:00,0:00,0:00,23:59:59
+6,3060 Lester St,West Valley City,UT,84119,88,0,0,Package Unavilable,9:05,0:00,0:00,10:30:00
+36,2300 Parkway Blvd,West Valley City,UT,84119,88,0,2,In Depot,8:00,0:00,0:00,23:59:59
+12,3575 W Valley Central Station bus Loop,West Valley City,UT,84119,1,0,0,In Depot,8:00,0:00,0:00,23:59:59
+18,1488 4800 S,Salt Lake City,UT,84123,6,0,2,In Depot,8:00,0:00,0:00,23:59:59
+23,5100 South 2700 West,Salt Lake City,UT,84118,5,0,0,In Depot,8:00,0:00,0:00,23:59:59
+11,2600 Taylorsville Blvd,Salt Lake City,UT,84118,1,0,0,In Depot,8:00,0:00,0:00,23:59:59
+2,2530 S 500 E,Salt Lake City,UT,84106,44,0,0,In Depot,8:00,0:00,0:00,23:59:59
+33,2530 S 500 E,Salt Lake City,UT,84106,1,0,0,In Depot,8:00,0:00,0:00,23:59:59
+10,600 E 900 South,Salt Lake City,UT,84105,1,0,0,In Depot,8:00,0:00,0:00,23:59:59
+5,410 S State St,Salt Lake City,UT,84111,5,0,0,In Depot,8:00,0:00,0:00,23:59:59
+38,410 S State St,Salt Lake City,UT,84111,9,0,2,In Depot,8:00,0:00,0:00,23:59:59
+8,300 State St,Salt Lake City,UT,84103,9,0,0,In Depot,8:00,0:00,0:00,23:59:59
+9,300 State St,Salt Lake City,UT,84103,2,0,0,Package Unavilable,10:20,0:00,0:00,23:59:59
+3,233 Canyon Rd,Salt Lake City,UT,84103,2,0,2,In Depot,8:00,0:00,0:00,23:59:59
